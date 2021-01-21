@@ -1,0 +1,6 @@
+.vscode
+.idea
+*.py[co]
+*.mo
+__pycache__/
+.python-version
